@@ -1,4 +1,7 @@
 # mlh-hackathon
+#### Project by Nathanael Gutierrez & Austin Polanco  
+  
+<br>
 
 ### Prerequisites
 
